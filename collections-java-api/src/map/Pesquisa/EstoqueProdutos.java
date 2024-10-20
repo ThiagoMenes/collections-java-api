@@ -83,5 +83,7 @@ public class EstoqueProdutos {
         System.out.println("Produto mais caro: "+ estoqueProdutos.obterProdutoMaisCaro());
         System.out.println("Produto mais barato: "+ estoqueProdutos.obterProdutoMaisBarato());
         System.out.println("Produto maior quantidade x valor: "+ estoqueProdutos.obterProdutoMaiorQuantidadeValorTotalNoEstoque());
+    
+        
     }
 }
